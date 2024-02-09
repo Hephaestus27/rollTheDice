@@ -21,8 +21,6 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Features](#🧐-features)
-* [Built With](#computer-built-with)
 * [Getting Started](#🛠️-Installation-Steps)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
