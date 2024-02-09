@@ -92,17 +92,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Hephaestus27/rollTheDice/blob/main/LICENSE.md) for more information.
-
 ## Authors
 
 * **Yassine Sindel** - *Full Stack & Android developer* - [Yassine Sindel](https://github.com/hephaestus27) - *re-built the android app*
-* **** - ** - []() - **
 
-## Acknowledgements
+## Other
 
-* []()
-* []()
-* []()
+* For any business opportunity please either contact me via email : yassinesindel@gmail.com or [via my Linkedin](https://www.linkedin.com/in/yassinesindel/)
