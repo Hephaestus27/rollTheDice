@@ -38,7 +38,7 @@ This project is made to map my progress throughout the course [Android Developme
  https://www.linkedin.com/learning/android-development-essential-training-app-architecture-with-kotlin/build-robust-apps-with-android-app-architecture)
 
 
-<h2>🧐 Features</h2>
+## 🧐 Features
 
 Here're some of the project's best features:
 
