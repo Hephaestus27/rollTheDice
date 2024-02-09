@@ -68,7 +68,7 @@ First you must have android SDK installed in your computer
 ```sh
 git clone https://github.com/Hephaestus27/rollTheDice/
 ```
-
+2. Open in Android SDK
 3. Upgrade your package if a pop-up appears
 
 
